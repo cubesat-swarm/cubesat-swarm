@@ -1,8 +1,4 @@
-Author: Aryadne Rezende
-
-Date: Jul 9, 2016
-
-Project: Swarm
+Swarm Project
 
 Function: This file has instructions on how to set up the database (if you do
 not have already the  smember.db file) and how to run this program
