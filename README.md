@@ -1,7 +1,7 @@
 Swarm Project
 
 Function: This file has instructions on how to set up the database (if you do
-not have already the  smember.db file) and how to run this program
+not have already the smember.db file) and how to run this program
 
 
 How to run: type in the directory of these files: python3 swarm_member.py
