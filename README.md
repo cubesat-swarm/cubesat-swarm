@@ -7,7 +7,8 @@ not have already the  smember.db file) and how to run this program
 How to run: type in the directory of these files: python3 swarm_member.py
 This will start a server in the address you have in this file. It already
 contains the localhost and Aryadne’s raspberry pi. To change this, just put your
-new ip address in the table swarm of this database
+new ip address in the table swarm of this database:
+
 	(INSERT INTO swarm VALUES (3, ‘your-ip, your-port’))
 
 How to create the smember data base:
